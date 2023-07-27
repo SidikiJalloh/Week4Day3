@@ -84,3 +84,13 @@ console.log(whereIsWaldo[2][1][1])
 // }
 
 
+// Find the Median
+const nums = [14,11,16,15,13,16,15,17,19,11,12,14,19,11,15,17,11,18,12,17,12,71,18,15,12];
+// nums.sort();
+console.log(nums.sort()[Math.floor(nums.length/2)])
+// console.log(nums)
+
+// Expected output:
+// => 15
+
+
