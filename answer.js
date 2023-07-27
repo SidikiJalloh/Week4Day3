@@ -38,3 +38,10 @@ console.log(dart)
 wolfy[0]= "Gameboy"
 console.log(wolfy)
 
+
+const ninjaTurtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"]
+for(let ninjaTurtle of ninjaTurtles ){
+console.log(ninjaTurtle.toUpperCase())
+}
+
+
