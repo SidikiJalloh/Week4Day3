@@ -72,3 +72,15 @@ whereIsWaldo[1][2] = "No One"
 console.log(whereIsWaldo[2][1][1])
 
 
+// Excited Kitten
+// kittyTalk = ["...human...why you taking pictures of me?...","...the catnip made me do it...","...why does the red dot always get away..." ]
+// for(let i=1;i<=20;i++){
+//     if(i%2==0){
+//         console.log(i + kittyTalk[Math.floor(Math.random()*kittyTalk.length)])
+
+//     }else{
+//         console.log(i + " Love me, pet me! HSSSSSS!")
+//     }
+// }
+
+
